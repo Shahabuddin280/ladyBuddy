@@ -10,4 +10,4 @@ About Us shares the purpose and motivation behind the app’s creation.
 Built with Android Studio, the app prioritizes reliability and responsiveness.
 Its user-friendly design ensures that anyone can quickly and confidently use it.
 
-<img src="https://github.com/Shahabuddin280/ladyBuddy/blob/master/assets/r.png" alt="Image Description" width="200" height="500">
+<img src="https://github.com/Shahabuddin280/ladyBuddy/blob/master/assets/r.png" alt="Image Description" width="200" height="400">
